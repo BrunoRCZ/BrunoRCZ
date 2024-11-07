@@ -1,4 +1,5 @@
 Olá, me chamo Bruno
+
 👋 Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta da programação.
 
 🔍 Busco oportunidades desafiadoras no campo de desenvolvimento back-end e front-end onde eu possa aplicar meu interesse pela programação e contribuir para projetos inovadores.
