@@ -6,21 +6,37 @@ Olá, me chamo Bruno
 🛠️ Hard Skills
 
 Linguagem C
+
 Linguagem Java
+
 Banco de Dados
+
 CRM
+
 Prototipagem
+
 Modelagem de Dados
+
 Construção de Diagramas
+
 🤝 Soft Skills
 
 Levantamento de Requisitos
+
 Detalhista
+
 Pensamento analítico e resolução de problemas
+
 Trabalho em equipe para colaborar em projetos multidisciplinares
+
 Curiosidade para explorar e descobrir tendências
+
 Análise de negócios
+
 Metodologias Ágeis
+
 Comunicação
+
 Inglês
+
 🚀 Estou sempre em busca de desafios e oportunidades de aprendizado contínuo.
